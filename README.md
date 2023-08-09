@@ -4,14 +4,14 @@
 This is a beginners' guide for [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) .
 
 
- - [Creating new bot with BotFather](#Creating+new+bot+with+BotFather)
- - [First message](#First+message)
- - [Commands](#Commands)
- - [Keyboards](#Keyboards)
- - [User](#User)
- - [Inline keyboards](#Inline+Keybords)
+ - [Creating new bot with BotFather](#creating+new+bot+with+BotFather)
+ - [First message](#first+message)
+ - [Commands](#commands)
+ - [Keyboards](#keyboards)
+ - [User](#user)
+ - [Inline keyboards](#inline+Keybords)
  - [parse_mode](#parse_mode)
- - [Location and Number](#Location+and+Number)
+ - [Location and Number](#location+and+Number)
  - [Interacting with groups and channels](#grpups+and+channel+interaction)
 
  <a name="Creating+new+bot+with+BotFather"></a>
